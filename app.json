@@ -11,15 +11,15 @@
     },
     "FB_VERIFY_TOKEN": {
       "description": "Verification code",
-      "value": ""
+      "value": "hitman507"
     },
     "FB_PAGE_ACCESS_TOKEN": {
       "description": "Page Access Token",
-      "value": ""
+      "value": "EAAEcEkKVmnIBAJZAO88SZBOpEBOnFZBz3zGonR8ektCIl6ZAaCU1zcsRskRx0GQBnog52csGthR0edJCguktLuVGbgxy94ylZCxpfG3Th6FW3QjJ9hK5PYsQso3KvuZApKKCj3Mu80fITl1SRj2SGGNIZAD093CnlQpQxIK2mr9vwZDZD"
     },
     "APIAI_LANG": {
       "description": "Agent language",
-      "value": "",
+      "value": "en",
       "required": false
     }
   },
